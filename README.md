@@ -32,7 +32,7 @@ creating a list is as easy as
 and an unordered list is just as easy: 
 - an 
 - unordered
--list 
+- list 
 
 ##### h5 
 
